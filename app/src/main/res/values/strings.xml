@@ -23,4 +23,6 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="art_your_dreams_with_colors">Art Your Dreams With Colors</string>
+    <string name="login_signup">Login / SignUp</string>
 </resources>
